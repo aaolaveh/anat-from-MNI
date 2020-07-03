@@ -1,7 +1,7 @@
 # anat-from-MNI
 This is a Python code to find the anatomical location of a MNI coordinate.
 
-The original code is a matlab Code from Xu Cui found [in his website][1]
+The original code is a matlab one from Xu Cui found [in his website][1]
 
 [1]: https://alivelearn.net/?p=1456
 
