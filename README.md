@@ -5,7 +5,7 @@ The original code is a matlab one from Xu Cui found [in his website][1]
 
 [1]: https://alivelearn.net/?p=1456
 
-The `TDdatabase.mat` is also found in Xu Cui's website
+The `TDdatabase.mat` file is also found in Xu Cui's website
 
 #### How to use it?
 
