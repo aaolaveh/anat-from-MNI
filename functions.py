@@ -28,7 +28,6 @@ def find_structure(mni,DB=None):
         mat=scipy.io.loadmat('TDdatabase.mat')  
             
     mni=np.array(mni)        
-    M=len(mni)
     
     #round coordinates
     mni=vround(mni/2)*2 
@@ -37,6 +36,7 @@ def find_structure(mni,DB=None):
                     [0,0,2,-74],[0,0,0,1]])
     
     index=mni2cor(mni,T)
+    M=np.shape(index)[0]
     
     #-1 by python indexation
     index=vint(index) - 1 
