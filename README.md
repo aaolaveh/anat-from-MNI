@@ -1,5 +1,5 @@
 # anat-from-MNI
-This is a Python code to find the anatomical location of a MNI coordinate.
+This is a Python code to find the anatomical brain region of a MNI coordinate.
 
 The original code is a matlab one from Xu Cui found [in his website][1]
 
